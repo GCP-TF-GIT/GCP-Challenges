@@ -1,0 +1,1756 @@
+[
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "bigquery.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/bigquery.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "servicenetworking.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/servicenetworking.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "logging.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/logging.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "sqladmin.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/sqladmin.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "autoscaling.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/autoscaling.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "containerscanning.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/containerscanning.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "clouddebugger.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/clouddebugger.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "logging.googleapis.com/LogBucket",
+      "description": "Audit bucket",
+      "displayName": "projects/673120286836/locations/global/buckets/_Required",
+      "location": "global",
+      "name": "//logging.googleapis.com/projects/673120286836/locations/global/buckets/_Required",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ACTIVE"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "storage-api.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/storage-api.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "logging.googleapis.com/LogSink",
+      "displayName": "_Required",
+      "location": "global",
+      "name": "//logging.googleapis.com/projects/673120286836/sinks/_Required",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "compute.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/compute.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "vpcaccess.googleapis.com/Connector",
+      "displayName": "vpc-connector",
+      "location": "us-central1",
+      "name": "//vpcaccess.googleapis.com/projects/673120286836/locations/us-central1/connectors/vpc-connector",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "CREATING"
+    },
+    {
+      "additionalAttributes": {
+        "statusUrl": "https://aesthetic-petal-371419-php-qmeipjyzea-uc.a.run.app"
+      },
+      "assetType": "run.googleapis.com/Service",
+      "createTime": "2023-01-12T13:27:20Z",
+      "displayName": "aesthetic-petal-371419-php",
+      "labels": {
+        "cloud.googleapis.com/location": "us-central1"
+      },
+      "location": "us-central1",
+      "name": "//run.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/services/aesthetic-petal-371419-php",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "statusImageDigest": "us-central1-docker.pkg.dev/aesthetic-petal-371419/testlogin/php@sha256:a85cd55bb128f4ca16d09c663d883811aadc546408466ed4f755df4eef0df8c2"
+      },
+      "assetType": "run.googleapis.com/Revision",
+      "createTime": "2023-01-12T13:27:20Z",
+      "displayName": "aesthetic-petal-371419-php-cq578",
+      "labels": {
+        "cloud.googleapis.com/location": "us-central1",
+        "serving.knative.dev/configuration": "aesthetic-petal-371419-php",
+        "serving.knative.dev/configurationGeneration": "1",
+        "serving.knative.dev/route": "aesthetic-petal-371419-php",
+        "serving.knative.dev/service": "aesthetic-petal-371419-php",
+        "serving.knative.dev/serviceUid": "e7cd93b7-603a-4187-8028-5bcc51907514"
+      },
+      "location": "us-central1",
+      "name": "//run.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/revisions/aesthetic-petal-371419-php-cq578",
+      "parentAssetType": "run.googleapis.com/Service",
+      "parentFullResourceName": "//run.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/services/aesthetic-petal-371419-php",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "sqladmin.googleapis.com/Instance",
+      "createTime": "2023-01-12T13:15:32Z",
+      "displayName": "aesthetic-petal-371419-mysql",
+      "location": "us-central1",
+      "name": "//cloudsql.googleapis.com/projects/aesthetic-petal-371419/instances/aesthetic-petal-371419-mysql",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "RUNNABLE"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2023-01-12T12:50:36Z",
+      "description": "Auto generated route via peering [servicenetworking-googleapis-com].",
+      "displayName": "peering-route-165911d41be3e276",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/peering-route-165911d41be3e276",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2023-01-12T12:32:28Z",
+      "description": "Default local route to the subnetwork 10.128.0.0/21.",
+      "displayName": "default-route-1ab6dcaddb32640b",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-1ab6dcaddb32640b",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2023-01-12T12:32:27Z",
+      "description": "Default local route to the subnetwork 10.128.8.0/21.",
+      "displayName": "default-route-02781ee7ddef5a07",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-02781ee7ddef5a07",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.128.8.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2023-01-12T12:32:26Z",
+      "displayName": "aesthetic-petal-371419-sql-snet",
+      "location": "us-central1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-central1/subnetworks/aesthetic-petal-371419-sql-snet",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.128.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2023-01-12T12:32:25Z",
+      "displayName": "aesthetic-petal-371419-run-snet",
+      "location": "us-central1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-central1/subnetworks/aesthetic-petal-371419-run-snet",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "address": "10.187.0.0"
+      },
+      "assetType": "compute.googleapis.com/Address",
+      "createTime": "2023-01-12T12:32:24Z",
+      "displayName": "aesthetic-petal-371419-vpc-address",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/addresses/aesthetic-petal-371419-vpc-address",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "RESERVED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2023-01-12T12:32:16Z",
+      "description": "Default route to the Internet.",
+      "displayName": "default-route-3418ea45dacf0f08",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-3418ea45dacf0f08",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Network",
+      "createTime": "2023-01-12T12:32:12Z",
+      "displayName": "vpc-php",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/networks/vpc-php",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2023-01-12T12:31:51Z",
+      "description": "Default route to the Internet.",
+      "displayName": "default-route-da2e84199251b6b6",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-da2e84199251b6b6",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Network",
+      "createTime": "2023-01-12T11:50:30Z",
+      "displayName": "php-vpc",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/networks/php-vpc",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "iam.googleapis.com/ServiceAccountKey",
+      "createTime": "2023-01-12T11:10:53Z",
+      "displayName": "projects/aesthetic-petal-371419/serviceAccounts/tf-svc@aesthetic-petal-371419.iam.gserviceaccount.com/keys/7d2e863a30c8424ecea2939cec30ba931977c8b0",
+      "name": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/111016361122052080628/keys/7d2e863a30c8424ecea2939cec30ba931977c8b0",
+      "parentAssetType": "iam.googleapis.com/ServiceAccount",
+      "parentFullResourceName": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/tf-svc@aesthetic-petal-371419.iam.gserviceaccount.com",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/DockerImage",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-central1/repositories/testlogin/dockerImages/php@sha256:a85cd55bb128f4ca16d09c663d883811aadc546408466ed4f755df4eef0df8c2",
+      "location": "us-central1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/repositories/testlogin/dockerImages/php@sha256:a85cd55bb128f4ca16d09c663d883811aadc546408466ed4f755df4eef0df8c2",
+      "parentAssetType": "artifactregistry.googleapis.com/Repository",
+      "parentFullResourceName": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/repositories/testlogin",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "sqladmin.googleapis.com/BackupRun",
+      "createTime": "2023-01-11T15:25:08Z",
+      "location": "us",
+      "name": "//cloudsql.googleapis.com/projects/aesthetic-petal-371419/instances/mysql/backupRuns/1673450708700",
+      "parentAssetType": "sqladmin.googleapis.com/Instance",
+      "parentFullResourceName": "//cloudsql.googleapis.com/projects/aesthetic-petal-371419/instances/mysql",
+      "project": "projects/673120286836",
+      "state": "RUNNING"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/Repository",
+      "createTime": "2023-01-11T09:21:36Z",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-central1/repositories/testlogin",
+      "location": "us-central1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/repositories/testlogin",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2023-01-11T09:21:36Z"
+    },
+    {
+      "additionalAttributes": {
+        "deletionProtection": "FALSE",
+        "externalIPs": [
+          "34.171.58.105"
+        ],
+        "id": "2439505495603791136",
+        "internalIPs": [
+          "10.128.0.9"
+        ],
+        "machineType": "e2-standard-2",
+        "networkInterfaceNames": [
+          "nic0"
+        ],
+        "networkInterfaceNetworks": [
+          "https://www.googleapis.com/compute/v1/projects/aesthetic-petal-371419/global/networks/default"
+        ]
+      },
+      "assetType": "compute.googleapis.com/Instance",
+      "createTime": "2023-01-11T09:05:20Z",
+      "displayName": "instance-1",
+      "location": "us-central1-a",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/zones/us-central1-a/instances/instance-1",
+      "networkTags": [
+        "http-server",
+        "https-server"
+      ],
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "RUNNING"
+    },
+    {
+      "additionalAttributes": {
+        "sizeGb": 10,
+        "type": "pd-balanced",
+        "users": [
+          "https://www.googleapis.com/compute/v1/projects/aesthetic-petal-371419/zones/us-central1-a/instances/instance-1"
+        ]
+      },
+      "assetType": "compute.googleapis.com/Disk",
+      "createTime": "2023-01-11T09:05:20Z",
+      "displayName": "instance-1",
+      "location": "us-central1-a",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/zones/us-central1-a/disks/instance-1",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "READY"
+    },
+    {
+      "assetType": "iam.googleapis.com/ServiceAccountKey",
+      "createTime": "2023-01-11T09:01:43Z",
+      "displayName": "projects/aesthetic-petal-371419/serviceAccounts/svc-tf@aesthetic-petal-371419.iam.gserviceaccount.com/keys/c969881c79eadc9748fae995c19ac0739eeb7aee",
+      "name": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/115041308343945657806/keys/c969881c79eadc9748fae995c19ac0739eeb7aee",
+      "parentAssetType": "iam.googleapis.com/ServiceAccount",
+      "parentFullResourceName": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/svc-tf@aesthetic-petal-371419.iam.gserviceaccount.com",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "email": "svc-tf@aesthetic-petal-371419.iam.gserviceaccount.com",
+        "uniqueId": "115041308343945657806"
+      },
+      "assetType": "iam.googleapis.com/ServiceAccount",
+      "displayName": "svc-tf",
+      "name": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/svc-tf@aesthetic-petal-371419.iam.gserviceaccount.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "additionalAttributes": {
+        "email": "tf-svc@aesthetic-petal-371419.iam.gserviceaccount.com",
+        "uniqueId": "111016361122052080628"
+      },
+      "assetType": "iam.googleapis.com/ServiceAccount",
+      "description": "to create resource with svc",
+      "displayName": "tf-svc",
+      "name": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/tf-svc@aesthetic-petal-371419.iam.gserviceaccount.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "cloudbilling.googleapis.com/ProjectBillingInfo",
+      "displayName": "projects/aesthetic-petal-371419/billingInfo",
+      "location": "global",
+      "name": "//cloudbilling.googleapis.com/projects/aesthetic-petal-371419/billingInfo",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ACTIVE"
+    },
+    {
+      "assetType": "servicedirectory.googleapis.com/Namespace",
+      "createTime": "2022-12-14T12:57:28Z",
+      "displayName": "goog-psc-default",
+      "location": "us-west1",
+      "name": "//servicedirectory.googleapis.com/projects/aesthetic-petal-371419/locations/us-west1/namespaces/goog-psc-default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2022-12-14T12:57:28Z"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-14T12:22:15Z",
+      "displayName": "default-8080",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-8080",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/Repository",
+      "createTime": "2022-12-14T07:40:38Z",
+      "description": "Docker repository",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-west1/repositories/testlogin",
+      "location": "us-west1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-west1/repositories/testlogin",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2023-01-04T12:03:08Z"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/Repository",
+      "createTime": "2022-12-14T04:20:57Z",
+      "description": "Docker repository",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-west1/repositories/test-login",
+      "location": "us-west1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-west1/repositories/test-login",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2022-12-14T04:20:57Z"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/Repository",
+      "createTime": "2022-12-13T23:47:04Z",
+      "description": "Docker repository",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-east1/repositories/hello-repo",
+      "location": "us-east1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-east1/repositories/hello-repo",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2022-12-13T23:47:04Z"
+    },
+    {
+      "assetType": "artifactregistry.googleapis.com/Repository",
+      "createTime": "2022-12-13T23:18:39Z",
+      "description": "Docker repository",
+      "displayName": "projects/aesthetic-petal-371419/locations/us-west1/repositories/hello-repo",
+      "location": "us-west1",
+      "name": "//artifactregistry.googleapis.com/projects/aesthetic-petal-371419/locations/us-west1/repositories/hello-repo",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2022-12-13T23:18:39Z"
+    },
+    {
+      "assetType": "servicedirectory.googleapis.com/Namespace",
+      "createTime": "2022-12-12T21:56:58Z",
+      "displayName": "goog-psc-default",
+      "location": "us-central1",
+      "name": "//servicedirectory.googleapis.com/projects/aesthetic-petal-371419/locations/us-central1/namespaces/goog-psc-default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "updateTime": "2022-12-12T21:56:58Z"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T21:03:55Z",
+      "description": "Default local route to the subnetwork 10.196.0.0/20.",
+      "displayName": "default-route-9ed9ee466f7da772",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-9ed9ee466f7da772",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:07:25Z",
+      "displayName": "default-allow-https",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-https",
+      "networkTags": [
+        "https-server"
+      ],
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:07:25Z",
+      "displayName": "default-allow-http",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-http",
+      "networkTags": [
+        "http-server"
+      ],
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:04:01Z",
+      "description": "Allow ICMP from anywhere",
+      "displayName": "default-allow-icmp",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-icmp",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:04:01Z",
+      "description": "Allow SSH from anywhere",
+      "displayName": "default-allow-ssh",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-ssh",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:04:01Z",
+      "description": "Allow RDP from anywhere",
+      "displayName": "default-allow-rdp",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-rdp",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Firewall",
+      "createTime": "2022-12-12T20:04:00Z",
+      "description": "Allow internal traffic on the default network",
+      "displayName": "default-allow-internal",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/firewalls/default-allow-internal",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:45Z",
+      "description": "Default local route to the subnetwork 10.184.0.0/20.",
+      "displayName": "default-route-f544a8d033bf80e2",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-f544a8d033bf80e2",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:44Z",
+      "description": "Default local route to the subnetwork 10.160.0.0/20.",
+      "displayName": "default-route-2dc0e7a99cb998e2",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-2dc0e7a99cb998e2",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:44Z",
+      "description": "Default local route to the subnetwork 10.190.0.0/20.",
+      "displayName": "default-route-3dd6442b734434c9",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-3dd6442b734434c9",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:43Z",
+      "description": "Default local route to the subnetwork 10.174.0.0/20.",
+      "displayName": "default-route-ede308778380ff52",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-ede308778380ff52",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:43Z",
+      "description": "Default local route to the subnetwork 10.178.0.0/20.",
+      "displayName": "default-route-3201755a4743f4a0",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-3201755a4743f4a0",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:43Z",
+      "description": "Default local route to the subnetwork 10.170.0.0/20.",
+      "displayName": "default-route-c6718d55ef2bcfe0",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-c6718d55ef2bcfe0",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:43Z",
+      "description": "Default local route to the subnetwork 10.192.0.0/20.",
+      "displayName": "default-route-306d55abc69fbff6",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-306d55abc69fbff6",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:42Z",
+      "description": "Default local route to the subnetwork 10.194.0.0/20.",
+      "displayName": "default-route-f830737bcb247dd2",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-f830737bcb247dd2",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:42Z",
+      "description": "Default local route to the subnetwork 10.166.0.0/20.",
+      "displayName": "default-route-f0c16596f64376a4",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-f0c16596f64376a4",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:42Z",
+      "description": "Default local route to the subnetwork 10.152.0.0/20.",
+      "displayName": "default-route-7c907f977fceb1d3",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-7c907f977fceb1d3",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:42Z",
+      "description": "Default local route to the subnetwork 10.140.0.0/20.",
+      "displayName": "default-route-388eddd104f4192d",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-388eddd104f4192d",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.182.0.0/20.",
+      "displayName": "default-route-456ea0a2f032ab83",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-456ea0a2f032ab83",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.158.0.0/20.",
+      "displayName": "default-route-6c277255f2d846ba",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-6c277255f2d846ba",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.164.0.0/20.",
+      "displayName": "default-route-875fdd4715f1fbf0",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-875fdd4715f1fbf0",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.208.0.0/20.",
+      "displayName": "default-route-d7e098a8116c7257",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-d7e098a8116c7257",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.172.0.0/20.",
+      "displayName": "default-route-20fdf85ce47f3171",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-20fdf85ce47f3171",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.186.0.0/20.",
+      "displayName": "default-route-472ad905331156b3",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-472ad905331156b3",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.204.0.0/20.",
+      "displayName": "default-route-18567f0462b55a70",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-18567f0462b55a70",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:41Z",
+      "description": "Default local route to the subnetwork 10.198.0.0/20.",
+      "displayName": "default-route-7d19bebf0076d2f9",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-7d19bebf0076d2f9",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.132.0.0/20.",
+      "displayName": "default-route-bcac79fac9cdb6ba",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-bcac79fac9cdb6ba",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.154.0.0/20.",
+      "displayName": "default-route-9e7f2c3da5a3a07a",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-9e7f2c3da5a3a07a",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.138.0.0/20.",
+      "displayName": "default-route-d074db49a08b09ae",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-d074db49a08b09ae",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.180.0.0/20.",
+      "displayName": "default-route-338d7fe3df4a64e1",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-338d7fe3df4a64e1",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.168.0.0/20.",
+      "displayName": "default-route-6086891184217f8b",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-6086891184217f8b",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.200.0.0/20.",
+      "displayName": "default-route-62fd77a93b08db76",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-62fd77a93b08db76",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.162.0.0/20.",
+      "displayName": "default-route-465be5a2d0c615c0",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-465be5a2d0c615c0",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.156.0.0/20.",
+      "displayName": "default-route-460781c08ed850db",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-460781c08ed850db",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.148.0.0/20.",
+      "displayName": "default-route-e4bd55257c5ac6c4",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-e4bd55257c5ac6c4",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:40Z",
+      "description": "Default local route to the subnetwork 10.146.0.0/20.",
+      "displayName": "default-route-f411cbf917a32936",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-f411cbf917a32936",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.184.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:39Z",
+      "displayName": "default",
+      "location": "asia-southeast2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-southeast2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:39Z",
+      "description": "Default local route to the subnetwork 10.206.0.0/20.",
+      "displayName": "default-route-36eea9d03b7ca8f8",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-36eea9d03b7ca8f8",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:39Z",
+      "description": "Default local route to the subnetwork 10.150.0.0/20.",
+      "displayName": "default-route-f3388bc492833d88",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-f3388bc492833d88",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:39Z",
+      "description": "Default local route to the subnetwork 10.128.0.0/20.",
+      "displayName": "default-route-e714c178faf2bba0",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-e714c178faf2bba0",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:39Z",
+      "description": "Default local route to the subnetwork 10.202.0.0/20.",
+      "displayName": "default-route-be7b8d3db82d0836",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-be7b8d3db82d0836",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:39Z",
+      "description": "Default local route to the subnetwork 10.188.0.0/20.",
+      "displayName": "default-route-bd39ccbb955aa237",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-bd39ccbb955aa237",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.174.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "asia-northeast2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-northeast2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.172.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "europe-west6",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west6/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.170.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "asia-east2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-east2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.166.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "europe-north1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-north1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.164.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "europe-west4",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west4/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.160.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "asia-south1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-south1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.156.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "europe-west3",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west3/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.140.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:38Z",
+      "displayName": "default",
+      "location": "asia-east1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-east1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:38Z",
+      "description": "Default local route to the subnetwork 10.142.0.0/20.",
+      "displayName": "default-route-bd0bc4ca54690abf",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-bd0bc4ca54690abf",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.208.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "me-west1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/me-west1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.206.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-south1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-south1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.204.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-southwest1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-southwest1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.202.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-east5",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-east5/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.200.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-west9",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west9/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.198.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-west8",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west8/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.194.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "southamerica-west1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/southamerica-west1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.192.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "australia-southeast2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/australia-southeast2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.190.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "asia-south2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-south2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.188.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "northamerica-northeast2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/northamerica-northeast2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.186.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-central2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-central2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.182.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-west4",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-west4/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.180.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-west3",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-west3/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.178.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "asia-northeast3",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-northeast3/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.168.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-west2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-west2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.162.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "northamerica-northeast1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/northamerica-northeast1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.158.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "southamerica-east1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/southamerica-east1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.154.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-west2",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west2/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.152.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "australia-southeast1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/australia-southeast1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.150.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-east4",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-east4/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.148.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "asia-southeast1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-southeast1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.146.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "asia-northeast1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/asia-northeast1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.142.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-east1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-east1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.138.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-west1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-west1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.132.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "europe-west1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/europe-west1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "gatewayAddress": "10.128.0.1"
+      },
+      "assetType": "compute.googleapis.com/Subnetwork",
+      "createTime": "2022-12-12T20:03:37Z",
+      "displayName": "default",
+      "location": "us-central1",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/regions/us-central1/subnetworks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Route",
+      "createTime": "2022-12-12T20:03:34Z",
+      "description": "Default route to the Internet.",
+      "displayName": "default-route-34ea5770b7c7e70d",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/routes/default-route-34ea5770b7c7e70d",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Network",
+      "createTime": "2022-12-12T20:03:30Z",
+      "description": "Default network for the project",
+      "displayName": "default",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419/global/networks/default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "compute.googleapis.com/Project",
+      "createTime": "2022-12-12T20:03:22Z",
+      "displayName": "aesthetic-petal-371419",
+      "location": "global",
+      "name": "//compute.googleapis.com/projects/aesthetic-petal-371419",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "additionalAttributes": {
+        "email": "673120286836-compute@developer.gserviceaccount.com",
+        "uniqueId": "112499263690196753953"
+      },
+      "assetType": "iam.googleapis.com/ServiceAccount",
+      "displayName": "Compute Engine default service account",
+      "name": "//iam.googleapis.com/projects/aesthetic-petal-371419/serviceAccounts/673120286836-compute@developer.gserviceaccount.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "additionalAttributes": {
+        "projectId": "aesthetic-petal-371419"
+      },
+      "assetType": "cloudresourcemanager.googleapis.com/Project",
+      "createTime": "2022-12-12T19:39:33Z",
+      "displayName": "My First Project",
+      "location": "global",
+      "name": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ACTIVE"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "oslogin.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/oslogin.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "logging.googleapis.com/LogBucket",
+      "description": "Default bucket",
+      "displayName": "projects/673120286836/locations/global/buckets/_Default",
+      "location": "global",
+      "name": "//logging.googleapis.com/projects/673120286836/locations/global/buckets/_Default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ACTIVE"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "containeranalysis.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/containeranalysis.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "cloudresourcemanager.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/cloudresourcemanager.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "container.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/container.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "bigquerystorage.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/bigquerystorage.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "cloudasset.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/cloudasset.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "monitoring.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/monitoring.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "artifactregistry.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/artifactregistry.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "servicemanagement.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/servicemanagement.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "cloudtrace.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/cloudtrace.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "storage-component.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/storage-component.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "containerfilesystem.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/containerfilesystem.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "vpcaccess.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/vpcaccess.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "cloudapis.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/cloudapis.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "datastore.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/datastore.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "bigquerymigration.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/bigquerymigration.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "sql-component.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/sql-component.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "containerregistry.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/containerregistry.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "iamcredentials.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/iamcredentials.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "iam.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/iam.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "serviceusage.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/serviceusage.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "deploymentmanager.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/deploymentmanager.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "run.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/run.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "pubsub.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/pubsub.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    },
+    {
+      "assetType": "logging.googleapis.com/LogSink",
+      "displayName": "_Default",
+      "location": "global",
+      "name": "//logging.googleapis.com/projects/673120286836/sinks/_Default",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836"
+    },
+    {
+      "assetType": "serviceusage.googleapis.com/Service",
+      "displayName": "storage.googleapis.com",
+      "location": "global",
+      "name": "//serviceusage.googleapis.com/projects/673120286836/services/storage.googleapis.com",
+      "parentAssetType": "cloudresourcemanager.googleapis.com/Project",
+      "parentFullResourceName": "//cloudresourcemanager.googleapis.com/projects/aesthetic-petal-371419",
+      "project": "projects/673120286836",
+      "state": "ENABLED"
+    }
+  ]
+  
