@@ -1,0 +1,89 @@
+#Metadata query output in pretty json format
+
+{
+    "attributes": {
+      "auth": "SSH",
+      "instance-type": "CONSole",
+      "ssh-keys": "##########"
+    },
+    "cpuPlatform": "Intel Broadwell",
+    "description": "",
+    "disks": [
+      {
+        "deviceName": "instance-1",
+        "index": 0,
+        "interface": "SCSI",
+        "mode": "READ_WRITE",
+        "type": "PERSISTENT-BALANCED"
+      }
+    ],
+    "guestAttributes": {},
+    "hostname": "instance-1.us-central1-a.c.aesthetic-petal-371419.internal",
+    "id": 4396466782355069400,
+    "image": "projects/debian-cloud/global/images/debian-11-bullseye-v20221206",
+    "licenses": [
+      {
+        "id": "3853522013536123851"
+      }
+    ],
+    "machineType": "projects/673120286836/machineTypes/e2-micro",
+    "maintenanceEvent": "NONE",
+    "name": "instance-1",
+    "networkInterfaces": [
+      {
+        "accessConfigs": [
+          {
+            "externalIp": "35.193.172.168",
+            "type": "ONE_TO_ONE_NAT"
+          }
+        ],
+        "dnsServers": [
+          "169.254.169.254"
+        ],
+        "forwardedIps": [],
+        "gateway": "10.128.0.1",
+        "ip": "10.128.0.7",
+        "ipAliases": [],
+        "mac": "42:01:0a:80:00:07",
+        "mtu": 1460,
+        "network": "projects/673120286836/networks/default",
+        "subnetmask": "255.255.240.0",
+        "targetInstanceIps": []
+      }
+    ],
+    "preempted": "FALSE",
+    "remainingCpuTime": -1,
+    "scheduling": {
+      "automaticRestart": "TRUE",
+      "onHostMaintenance": "MIGRATE",
+      "preemptible": "FALSE"
+    },
+    "serviceAccounts": {
+      "673120286836-compute@developer.gserviceaccount.com": {
+        "aliases": [
+          "default"
+        ],
+        "email": "673120286836-compute@developer.gserviceaccount.com",
+        "scopes": [
+          "https://www.googleapis.com/auth/cloud-platform"
+        ]
+      },
+      "default": {
+        "aliases": [
+          "default"
+        ],
+        "email": "673120286836-compute@developer.gserviceaccount.com",
+        "scopes": [
+          "https://www.googleapis.com/auth/cloud-platform"
+        ]
+      }
+    },
+    "tags": [],
+    "virtualClock": {
+      "driftToken": "0"
+    },
+    "zone": "projects/673120286836/zones/us-central1-a"
+  }
+
+# To get single data key value from curl output, run the Get-Single-datakey.sh along with key value in commandline. Ex: ./Get-Single-datakey.sh 'auth'
+METADATA=SSH
